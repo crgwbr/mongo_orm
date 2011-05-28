@@ -1,6 +1,6 @@
 #README
 
-mongo_orm is a simple, lightweight object relation mapper for MongoDB, based on Django's default ORM.  It's goal is to provide a super easy way to start using MongoDB in any Python project.
+mongo_orm is a simple, lightweight object relation mapper for MongoDB, based on Django's default ORM.  It's goal is to provide a super easy way to start using MongoDB in any Python project.  This project is *NOT* recommended for use yet; saying its half-baked is an overstatement.  It will get better with time :)
 
 #Getting Started
 
